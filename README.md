@@ -34,7 +34,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
         * VSCode editor: type parts of variable or function name and press `ctrl+space`
         * Terminal: type parts of file and then press `<tab>` like `$ python ba<tab>` to complete `bank.py` if there is such file in current directory.
 
-- [ ] Enable indentation guides in your editor to avoid indentation mistakes.
+- [x] Enable indentation guides in your editor to avoid indentation mistakes.
     * VSCode: open settings with: `ctrl+`,
     * Paste in the search field "**editor.guides.indentation**"
     * Switch to the tab "Workspace"
@@ -42,7 +42,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
     * Now you will have indentation guides in your code editor.
         * <img src="img/indent_guides.png" width="20%">
 
-- [ ] Directory organization
+- [x] Directory organization
     * To make it easier for you to find old solutions, create a directory for each week. However, this makes for longer names to type on the keyboard like `$ cd 0_functions_variables/playback`. Thus I recommend: once you've completed a full week, then create a new directory for that week and drag-and-drop the problem set in to that directory.
     * Create directories for all weeks:
         *
@@ -108,13 +108,13 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
         </details>
 
 
-- [ ] VSCode desktop version
+- [x] VSCode desktop version
     *   If you code on your own computer, you can benefit from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
     *   To use VSCode desktop instead of web, when you go to [cs50.dev](https://cs50.dev/) instead of pressing the "Log In" button press the down arrow andthen "Open in VS Code Desktop".
         * <img src="img/vscode_desktop.png" width="40%">
 
 
-- [ ] Enable the statusbar with the command palette `ctrl+shift+p` and type `View: Toggle Status Bar Visibility` and orient yourself with the icons showns there.
+- [x] Enable the statusbar with the command palette `ctrl+shift+p` and type `View: Toggle Status Bar Visibility` and orient yourself with the icons showns there.
 
 
 - [ ] Extensions: Install some useful or fun extensions and find a theme that suits your taste!
